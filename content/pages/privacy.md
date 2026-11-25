@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Privacy
 
-Deze site wordt gerund door Jonathan McCallum, die in Getaria, Spanje woont. Het is een kleine persoonlijke site: teksten, en een chat die antwoordt vanuit die teksten. Er zijn geen accounts om aan te maken, geen tracking, geen reclame en niets te koop. De site volgt de Europese privacywet (GDPR) voor alle bezoekers, waar ter wereld ze ook zijn.
+Deze site wordt gerund door Jonathan McCallum, die in Baskenland woont. Het is een kleine persoonlijke site: teksten, en een chat die antwoordt vanuit die teksten. Er zijn geen accounts om aan te maken, geen tracking, geen reclame en niets te koop. De site volgt de Europese privacywet (GDPR) voor alle bezoekers, waar ter wereld ze ook zijn.
 
 Als je iets wilt vragen over deze pagina, of over je persoonlijke gegevens, schrijf dan naar Jonathan via <a href="#" data-contact-email data-contact-email-text>Mail me</a>. Je kunt hem ook een bericht sturen op [Instagram](https://www.instagram.com/jonamccallum) of [Threads](https://www.threads.com/@jonamccallum).
 
